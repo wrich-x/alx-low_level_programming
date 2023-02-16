@@ -1,5 +1,5 @@
 #include<stdio.h>
-/*
+/**
  * main - Entry point
  *
  * Description: 'C program that prints a line with puts'
