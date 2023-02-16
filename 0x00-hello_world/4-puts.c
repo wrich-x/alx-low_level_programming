@@ -1,10 +1,10 @@
 #include<stdio.h>
 /*
- * main - printing a line using puts
+ * main - Entry point
  *
- * Description: a C program that prints an exactformat
+ * Description: 'C program that prints a line with puts'
  *
- * Return: 0
+ * Return: 0 (Success)
  */
 int main(void)
 {
