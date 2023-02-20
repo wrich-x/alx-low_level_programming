@@ -1,16 +1,17 @@
-#include <stdlib.h>
+#include <stdio.h>
 /**
  * main - entry point
  * wrx
- * Description: assign a random number to the variable n
+ * Description:  prints the alphabet in lowercase
  * Return: 0
  */
 int main(void)
 {
-	for (int x = 'A'; x <= 'Z'; x++)
-	{
-		x = tolower(x);
-		putchar("%c ", x)\n;
-	}
+	int i;
+
+	for (i = 'a'; i < 'z'; i++)
+{
+	putchar(i);
+}
 	return (0);
 }
