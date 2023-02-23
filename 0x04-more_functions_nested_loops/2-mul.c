@@ -4,7 +4,7 @@ include "main.h"
  * wrx
  * @a: int one
  * @b: int b
- * Return: a * b
+ * Return: result of multiplying a * b
  */
 int mul(int a, int b)
 {
