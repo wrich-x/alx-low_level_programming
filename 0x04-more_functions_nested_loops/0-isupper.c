@@ -7,16 +7,8 @@
  */
 int _isupper(int c)
 {
-	char ch;
-
-	printf("Please Enter Character: ");
-	scanf("%c", &ch);
-
-	if (ch >= 'A' && ch <= 'Z')
-		_putchar("This is UPERCASE");
-			return (1);
+	if (c >= 'A' && c <= 'Z')
+		return (1);
 	else
-		_putchar("This is lowercase");
-
-	return (0);
+		return (0);
 }
