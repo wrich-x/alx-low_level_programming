@@ -1,9 +1,11 @@
 #include "main.h"
+
 /**
- * more_numbers - function to print number 10x
+ * more_numbers - nmbr fct
  * wrx
- * Return: void
+ * Return: no return
  */
+
 void more_numbers(void)
 {
 

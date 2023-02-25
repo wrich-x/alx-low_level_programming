@@ -1,9 +1,10 @@
 #include "main.h"
+
 /**
- * print_numbers - prints numbers 0 - 9 ith _putchar
- * wrx
- * Return: 0 (success)
- */
+*print_numbers - print 0123456789
+* wrx
+*Return: void
+*/
 
 void print_numbers(void)
 {
