@@ -18,12 +18,3 @@ void _puts_recursion(char *s)
 	s++;
 	_puts_recursion(s);
 }
-
-void print_string_recursive(char *str) {
-    if (*str) {
-        putchar(*str);
-        print_string_recursive(str+1);
-    } else {
-        putchar('\n');
-    }
-}
