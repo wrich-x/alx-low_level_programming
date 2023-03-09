@@ -4,7 +4,7 @@
  *
  * @n: number to be factorisd
  *
- * Returns: 0
+ * Returns: returns the factorial of n
  */
 int factorial(int n)
 {
