@@ -2,11 +2,11 @@
 #include <stdlib.h>
 
 /**
-  * alloc_grid - a function that returns a pointer to a 2 dimensional array of integers
+  * alloc_grid - a function that returns a pointer
   * @width: first side
   * @height: the second side
   *
-  * Return: Null on fail, 
+  * Return: Null on fail
   */
 int **alloc_grid(int width, int height)
 {
